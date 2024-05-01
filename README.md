@@ -3,7 +3,7 @@
 I'm Volodymyr, a passionate software engineer from ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine") **Kyiv**, **Ukraine**, currently based in ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") **Berlin**, **Germany** . Welcome to my GitHub profile!
 <br>  
 <img align="right" src="https://reactiongifs.me/wp-content/uploads/2022/05/Work-Hard-Everyday.gif" />
-## About Me
+## 📜 About Me
 
 - 💻 I'm currently working as a Java Software Engineer, honing my skills and learning new technologies.
 - 🌱 I'm learning German to better integrate into the vibrant Berlin tech scene.
@@ -11,7 +11,7 @@ I'm Volodymyr, a passionate software engineer from ![Ukraine](https://raw.github
 
 
 <br> <br>
-## Tools I code with
+## ⚒️ Tools I code with
 <br> 
 <div>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -30,5 +30,3 @@ I'm Volodymyr, a passionate software engineer from ![Ukraine](https://raw.github
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
 </div>
-<br> <br> 
- Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities! 😊
